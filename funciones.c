@@ -41,7 +41,7 @@ double mod(double a, double b)
 
 double floor(double a)
 {
-	//TODO completame
+	//Equipo 7 Angel Leonardo | Gael Viera
 	return 0;
 }
 
